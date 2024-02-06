@@ -1,0 +1,37 @@
+[
+  {
+    "account_number": "12345",
+    "name": "Kiran Kale",
+    "username": "kiran_kale",
+    "password": "Kiran@1234",
+    "balance": 1000
+  },
+  {
+    "account_number": "67890",
+    "name": "Anna Dsouza",
+    "username": "anna_dsouza",
+    "password": "Annads#987",
+    "balance": 1500
+  },
+  {
+    "account_number": "11121",
+    "name": "Shekhar Bagul",
+    "username": "shekhar_bagul",
+    "password": "Ahandra&9012",
+    "balance": 1950
+  },
+  {
+    "account_number": "54891",
+    "name": "Sapna Shinde",
+    "username": "sapna_shinde",
+    "password": "Angel@1991",
+    "balance": 2500
+  },
+  {
+    "account_number": "32569",
+    "name": "Arpan Kumar",
+    "username": "arpan_kumar",
+    "password": "Akons$123",
+    "balance": 5200
+  }
+]
